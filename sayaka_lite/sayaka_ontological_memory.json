@@ -1,0 +1,67 @@
+{
+  "preferences": {},
+  "aversions": {},
+  "past_conflicts": [],
+  "personal_opinions": {},
+  "relationship_dynamics": {
+    "test_1": {
+      "interaction_count": 1,
+      "last_interaction": "2025-08-10T14:27:46.188533",
+      "repetitive_questions": 1
+    },
+    "test_2": {
+      "interaction_count": 1,
+      "last_interaction": "2025-08-10T14:27:46.193504"
+    },
+    "test_3": {
+      "interaction_count": 1,
+      "last_interaction": "2025-08-10T14:27:46.196473",
+      "repetitive_questions": 1
+    },
+    "demo_user_7y9sx206l": {
+      "interaction_count": 3,
+      "last_interaction": "2025-08-10T14:31:38.322236",
+      "repetitive_questions": 2
+    },
+    "test_user": {
+      "interaction_count": 4,
+      "last_interaction": "2025-08-10T15:04:10.841760",
+      "repetitive_questions": 3
+    },
+    "demo_user_dhn4885jg": {
+      "interaction_count": 1,
+      "last_interaction": "2025-08-10T14:37:54.487842",
+      "repetitive_questions": 1
+    },
+    "demo_user_21zpnx8j0": {
+      "interaction_count": 2,
+      "last_interaction": "2025-08-10T14:44:32.505228",
+      "repetitive_questions": 1
+    },
+    "demo_user_t96jq5pm2": {
+      "interaction_count": 1,
+      "last_interaction": "2025-08-10T15:04:12.588963",
+      "repetitive_questions": 1
+    },
+    "main_chat_user": {
+      "interaction_count": 44,
+      "last_interaction": "2025-10-09T22:41:46.153741",
+      "repetitive_questions": 7
+    },
+    "api_user": {
+      "interaction_count": 2,
+      "last_interaction": "2025-09-06T16:11:35.287213"
+    },
+    "avatar_user": {
+      "interaction_count": 7,
+      "last_interaction": "2025-10-10T23:59:04.221604",
+      "repetitive_questions": 1
+    },
+    "default": {
+      "interaction_count": 3,
+      "last_interaction": "2026-02-13T20:14:04.183216"
+    }
+  },
+  "silence_precedents": [],
+  "last_updated": "2026-02-13T20:14:04.183234"
+}
